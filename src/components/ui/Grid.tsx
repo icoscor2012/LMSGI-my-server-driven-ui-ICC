@@ -1,5 +1,5 @@
 import type { IGrid } from "../../types/components.types";
-import Card from "./card";
+import Card from "./Card";
 
 
 
