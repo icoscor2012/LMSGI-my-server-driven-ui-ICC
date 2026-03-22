@@ -1,5 +1,5 @@
 import type { IScreen } from "../types/components.types"
-import Card from "./ui/card"
+import Card from "./ui/Card"
 import Grid from "./ui/Grid"
 import Hero from "./ui/Hero"
 
